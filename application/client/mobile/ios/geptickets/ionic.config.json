@@ -1,0 +1,7 @@
+{
+  "name": "geptickets",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
